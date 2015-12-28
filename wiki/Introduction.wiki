@@ -1,0 +1,10 @@
+#summary Project definition
+
+= Introduction =
+Please find an academic project to develop and use JavaFX application game oriented.
+Fakemon will simulate a Pokemon-like game using JavaFX.
+
+
+= Details =
+
+No details available.
